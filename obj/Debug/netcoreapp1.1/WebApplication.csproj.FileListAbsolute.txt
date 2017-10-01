@@ -1,0 +1,11 @@
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.deps.json
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.json
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.dev.json
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.dll
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.csprojResolveAssemblyReference.cache
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.AssemblyInfoInputs.cache
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.AssemblyInfo.cs
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.pdb
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.dll
+C:\Dexter\Practice\WebSocket\Warp.WebSocket\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.pdb
